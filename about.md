@@ -5,7 +5,6 @@ permalink: /about/
 main_nav: true
 ---
 
-<h1>About SynfulAI</h1>
 <p>At SynfulAI, we are at the forefront of revolutionizing industries with cutting-edge artificial intelligence solutions. Our mission is to empower businesses with innovative AI-driven products that simplify processes, optimize decision-making, and unlock new levels of efficiency and creativity.</p>
 
 <hr>
