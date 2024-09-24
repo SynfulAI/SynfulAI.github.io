@@ -3,6 +3,19 @@ layout: default
 pagination: 
   enabled: true
 ---
+<head>
+  <style>
+    .center-text {
+      display: flex;
+      justify-content: center; /* Horizontally centers the text */
+      align-items: center;     /* Vertically centers the text */
+      height: 100vh;          /* Takes up full viewport height */
+      text-align: center;      /* Centers text alignment */
+      flex-direction: column;  /* Allows stacking of elements inside the div */
+    }
+  </style>
+</head>
+
 <div class="home">
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
@@ -99,13 +112,4 @@ pagination:
 
 </div>
 </div>
-
-.center-text {
-  display: flex;
-  justify-content: center; /* Horizontally centers the text */
-  align-items: center;    /* Vertically centers the text */
-  height: 100vh;          /* Takes up full viewport height */
-  text-align: center;     /* Centers text alignment */
-  flex-direction: column; /* Allows stacking of elements inside the div */
-}
 
