@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Team
-category: page
 permalink: /team/
 main_nav: true
 ---
