@@ -29,8 +29,8 @@ main_nav: true
 
   <div style="text-align: center;">
     <img src="./assets/emp4.jpg" alt="Employee 4" style="width: 150px; height: 150px; border-radius: 50%;">
-    <h3>Aiden Romero</h3>
-    <p>Software Engineer</p>
+    <h3>Kay Caine</h3>
+    <p>Security Engineer</p>
   </div>
 
   <div style="text-align: center;">
