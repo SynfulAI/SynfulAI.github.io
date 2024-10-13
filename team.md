@@ -11,7 +11,7 @@ main_nav: true
 
   <div style="text-align: center;">
     <img src="./assets/emp1.jpg" alt="Employee 1" style="width: 150px; height: 150px; border-radius: 50%;">
-    <h3>Ethan Carter</h3>
+    <h3>Erica Miles</h3>
     <p>CEO</p>
   </div>
 
